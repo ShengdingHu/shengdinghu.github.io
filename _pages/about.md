@@ -22,7 +22,7 @@ My past researches include graph neural networks and natural language processing
 
 * [KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion.](https://arxiv.org/abs/2004.13631) *Findings of ACL 2021.*
   
-  Jie Zhou*, **Shengding Hu***, Xin Lv, Cheng Yang, Zhiyuan Liu, Wei Xu, Jie Jiang, Juanzi Li, Maosong Sun
+  Jie Zhou\*, **Shengding Hu**\*, Xin Lv, Cheng Yang, Zhiyuan Liu, Wei Xu, Jie Jiang, Juanzi Li, Maosong Sun
   
 
 * [Graph Neural Networks: A Review of Methods and Applications.](https://arxiv.org/abs/1812.08434) *AI Open 2021.*

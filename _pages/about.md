@@ -17,9 +17,7 @@ My past researches include graph neural networks and natural language processing
 
 I have a passion for open source academic communities.  Hope my projects are useful to the community!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenDelta)](https://github.com/thunlp/OpenDelta)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenPrompt)](https://github.com/thunlp/OpenPrompt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenDelta)](https://github.com/thunlp/OpenDelta) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenPrompt)](https://github.com/thunlp/OpenPrompt)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=PromptPapers)](https://github.com/thunlp/PromptPapers)
 

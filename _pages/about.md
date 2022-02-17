@@ -8,13 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a first Master student from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
+I am a second-year master student from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
 
-My past researches include graph neural networks and natural language processing. And I am currently interested in utilizing Pretrained Language Models (PLMs) and further improve the current PLMs towards reasoning.
+My past researches include graph neural networks and natural language processing. And I am currently interested in effitively utilizing Pretrained Language Models (PLMs) towards future artificial intellegence. 
 
+
+# Projects
+
+* [Prompt-tuning Paper List](https://github.com/thunlp/PromptPapers) star 
+  
+  Must-read papers on prompt-based tuning for pre-trained language models.
+  
+* [OpenPrompt]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenPrompt)](https://github.com/thunlp/OpenPrompt)
 
 # Publications
 ### 2021
+
 
 * [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification.](https://arxiv.org/abs/2108.02035) *Preprint.*
   
@@ -34,13 +45,6 @@ My past researches include graph neural networks and natural language processing
   
   **Shengding Hu**, Zheng Xiong, Meng Qu, Xingdi Yuan,Marc-Alexandre Cˆot ́e, Zhiyuan Liu, and Jian Tang.
 
-
-# Projects
-
-* [Prompt-tuning Paper List](https://github.com/thunlp/PromptPapers)
-  
-  Must-read papers on prompt-based tuning for pre-trained language models.
-  
 
 # Social Services
 

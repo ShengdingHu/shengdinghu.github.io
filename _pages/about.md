@@ -15,12 +15,13 @@ My past researches include graph neural networks and natural language processing
 
 # Projects
 
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=PromptPapers)](https://github.com/thunlp/PromptPapers)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenPrompt)](https://github.com/thunlp/OpenPrompt)
+I have a passion for open source academic communities.  Hope my projects are useful to the community!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenDelta)](https://github.com/thunlp/OpenDelta)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenPrompt)](https://github.com/thunlp/OpenPrompt)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=PromptPapers)](https://github.com/thunlp/PromptPapers)
 
 # Publications
 ### 2021
@@ -64,7 +65,9 @@ My past researches include graph neural networks and natural language processing
 
 ### Master
 - National Scholarship 2021. 
+
   *The only one to win this adwards as a master student.*
+
 ### Bachelor
 - Academic Excellence Award in 2016-2017 , 2017-2018, 2018-2019.
 - Good reading scholarship in 2018-2019 year.

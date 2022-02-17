@@ -53,9 +53,13 @@ My past researches include graph neural networks and natural language processing
   - WWW 2020
   
 ### TA
+  - Object Oriented Programming, 2022.
   - Object Oriented Programming, 2021.
   - Natural Language Processing, 2020.
 
+### Campus
+  - Vice President of Graduate Student Union in CS Dept. 2021-2022.
+ 
 # Awards
 
 ### Master

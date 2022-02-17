@@ -15,17 +15,18 @@ My past researches include graph neural networks and natural language processing
 
 # Projects
 
-* [Prompt-tuning Paper List](https://github.com/thunlp/PromptPapers) star 
   
-  Must-read papers on prompt-based tuning for pre-trained language models.
-  
-* [OpenPrompt]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=PromptPapers)](https://github.com/thunlp/PromptPapers)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenPrompt)](https://github.com/thunlp/OpenPrompt)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenDelta)](https://github.com/thunlp/OpenDelta)
 
 # Publications
 ### 2021
 
+* [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *Preprint.*
+  Ning Ding\*, **Shengding Hu**\*, Weilin Zhao\*, Yulin Chen, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun
 
 * [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification.](https://arxiv.org/abs/2108.02035) *Preprint.*
   
@@ -58,6 +59,8 @@ My past researches include graph neural networks and natural language processing
 # Awards
 
 ### Master
+- National Scholarship 2021. 
+  *The only one to win this adwards as a master student.*
 ### Bachelor
 - Academic Excellence Award in 2016-2017 , 2017-2018, 2018-2019.
 - Good reading scholarship in 2018-2019 year.

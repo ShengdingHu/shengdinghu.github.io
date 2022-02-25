@@ -31,9 +31,13 @@ I have a passion for open source academic communities.  Hope my projects are use
 * [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *Preprint.*
   Ning Ding\*, **Shengding Hu**\*, Weilin Zhao\*, Yulin Chen, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun
 
-* [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification.](https://arxiv.org/abs/2108.02035) *Preprint.*
+* [Prototypical Verbalizer for Prompt-based Few-shot Tuning.](https://openreview.net/pdf?id=tSfqsV1EVem)  *ACL 2022.*
   
-  **Shengding Hu**, Ning Ding, Huadong Wang, Zhiyuan Liu, Juanzi Li, Maosong Sun
+  Ganqu Cui, Shengding Hu, Ning Ding, LongTao Huang, Zhiyuan Liu
+
+* [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification.](https://arxiv.org/abs/2108.02035) *ACL 2022.*
+  
+  **Shengding Hu**, Ning Ding, Huadong Wang, Zhiyuan Liu, JinGang Wang, Juanzi Li, Wei Wu,  Maosong Sun
 
 * [KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion.](https://arxiv.org/abs/2004.13631) *Findings of ACL 2021.*
   

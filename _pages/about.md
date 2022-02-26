@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master's student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by [Professor Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conduct research under [Professor Jian Tang](https://jian-tang.com).  
+I am a second-year master's student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by [Professor Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).  
 
 My past research includes graph neural networks and natural language processing. And I am currently interested in improving and effectively utilizing Pretrained Language Models (PLMs) for future artificial intelligence. 
 

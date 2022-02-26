@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master student from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
+I am a second-year master's student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by [Professor Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conduct research under [Professor Jian Tang](https://jian-tang.com).  
 
-My past researches include graph neural networks and natural language processing. And I am currently interested in effitively utilizing Pretrained Language Models (PLMs) towards future artificial intellegence. 
+My past research includes graph neural networks and natural language processing. And I am currently interested in improving and effectively utilizing Pretrained Language Models (PLMs) for future artificial intelligence. 
 
 
 # Projects
@@ -29,6 +29,7 @@ I have a passion for open source academic communities.  Hope my projects are use
 ### 2021
 
 * [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *Preprint.*
+  
   Ning Ding\*, **Shengding Hu**\*, Weilin Zhao\*, Yulin Chen, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun
 
 * [Prototypical Verbalizer for Prompt-based Few-shot Tuning.](https://openreview.net/pdf?id=tSfqsV1EVem)  *ACL 2022.*

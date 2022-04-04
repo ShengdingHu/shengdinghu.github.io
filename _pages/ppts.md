@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /ppts/
 title: "PPTs"
 excerpt: "PPTs"
 author_profile: true

@@ -2,7 +2,7 @@
 title: "Talk 1 on Relevant Topic in Your Field"
 collection: drawings
 type: "drawings"
-permalink: /drawing/22April.md
+permalink: /drawings/22April.md
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "San Francisco, California"

@@ -187,15 +187,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  ppts:
-    output: true
-    permalink: /:collection/:path/
-  software:
-    output: true
-    permalink: /:collection/:path/
-  drawings:
-    output: true
-    permalink: /:colleciton/:path/
+  # ppts:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # software:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # drawings:
+  #   output: true
+  #   permalink: /:colleciton/:path/
 
 
 # Defaults

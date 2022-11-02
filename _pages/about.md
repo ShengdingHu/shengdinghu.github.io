@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master's student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by [Professor Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).  
+I am a third-year PhD student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm) and  [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).  
 
 My past research includes graph neural networks and natural language processing. And I am currently interested in improving and effectively utilizing Pretrained Language Models (PLMs) for future artificial intelligence. 
 
@@ -26,9 +26,18 @@ I have a passion for open source academic communities.  Hope my projects are use
 # Publications
 \* indicates equal contribution.
 
+### 2022
+
+* [Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models](https://arxiv.org/abs/2203.06904) *Preprint*
+  Ning Ding\*, Yujia Qin\*, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, **Shengding Hu**, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun
+
+* [Sparse Structure Search for Parameter-Efficient Tuning](https://arxiv.org/abs/2206.07382) *NeurIPS 2022* [code](https://github.com/thunlp/S3Delta)
+
+  **Shengding Hu**\*, Zhen Zhang\*, Ning Ding, Yadao Wang, Yasheng Wang, Zhiyuan Liu, Maosong Sun
+
 ### 2021
 
-* [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *Preprint.*
+* [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *ACL 2022 Demo*  **ACL 2022 Best Demo Award**
   
   Ning Ding\*, **Shengding Hu**\*, Weilin Zhao\*, Yulin Chen, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun
 
@@ -61,16 +70,23 @@ I have a passion for open source academic communities.  Hope my projects are use
   - WWW 2020
   
 ### TA
-  - Object Oriented Programming, 2022.
-  - Object Oriented Programming, 2021.
-  - Natural Language Processing, 2020.
+  - Computational Linguistics 2022. (Teacher: Maosong Sun)
+  - Summer Course on Big Models, 2022. (Teacher: Zhiyuan Liu) [Github Repo](https://github.com/thunlp/BMCourse)
+  - Object Oriented Programming, 2022. (Teacher: Zhiyuan Liu)
+  - Object Oriented Programming, 2021. (Teacher: Zhiyuan Liu)
+  - Natural Language Processing, 2020. (Teacher: Zhiyuan Liu)
 
 ### Campus
   - Vice President of Graduate Student Union in CS Dept. 2021-2022.
  
 # Awards
 
-### Master
+### Master&PhD
+
+- [Siebel Scholar of Class 2023](https://www.businesswire.com/news/home/20220922005006/en/Siebel-Scholars-Foundation-Announces-Class-of-2023) 
+  
+  *1/83 across the world* 
+
 - National Scholarship 2021. 
 
   *The only one to win this adwards as a master student.*

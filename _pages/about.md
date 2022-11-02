@@ -29,6 +29,7 @@ I have a passion for open source academic communities.  Hope my projects are use
 ### 2022
 
 * [Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models](https://arxiv.org/abs/2203.06904) *Preprint*
+  
   Ning Ding\*, Yujia Qin\*, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, **Shengding Hu**, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun
 
 * [Sparse Structure Search for Parameter-Efficient Tuning](https://arxiv.org/abs/2206.07382) *NeurIPS 2022* [code](https://github.com/thunlp/S3Delta)

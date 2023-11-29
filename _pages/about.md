@@ -94,11 +94,11 @@ For other papers, please refer to my [google scholar](https://scholar.google.com
 
 - [Siebel Scholar of Class 2023](https://www.businesswire.com/news/home/20220922005006/en/Siebel-Scholars-Foundation-Announces-Class-of-2023) 
   
-  *1/83 across the world* 
+  *1/83 across the world, Price $30,000* 
 
 - National Scholarship 2021. 
 
-  *The only one to win this adwards as a master student.*
+  One of the highest award in Tsinghua University.
 
 ### Bachelor
 - Academic Excellence Award in 2016-2017 , 2017-2018, 2018-2019.

@@ -51,7 +51,7 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
 
   <span style="color: red;">A 75 page study of LLM tool use. </span>
 
-  Yujia Qin, **Shengding Hu**, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, ..., Zhiyuan Liu, Maosong Sun.
+  Yujia Qin, **Shengding Hu**, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, ...(other 33 co-authors), Zhiyuan Liu, Maosong Sun.
 
 
 * [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *ACL 2022 Demo*  

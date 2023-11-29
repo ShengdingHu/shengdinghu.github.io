@@ -8,14 +8,63 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm) and  [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).  
+I am a fourth-year PhD student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm) and  [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).  
 
-My past research includes graph neural networks and natural language processing. And I am currently interested in improving and effectively utilizing Pretrained Language Models (PLMs) for future artificial intelligence. dr
+My current passion revolves around building **Scalable** solutions to AGI. My focus areas include:
+
+1. **Scientifically Scaling up LLMs**. This include
+   1. **Predicatable Scaling**. Ensuring the growth of Language Models' ability is measureable and predictable.
+   2. **Scalable Supervision for LLM**. As we are running out of pretraining data and step into super-human tasks,  developing mechanisms for scalable oversight and dynamic evaluation is important. 
+   
+2. **Building Scalable Solutions for Embodied Agents**. This include
+   1. **Scalable Environment Generation**. Creating adaptable and scalable environments for Agents RL training.
+   2. **Scalable Multi-modal Architectures**. Enhancing the versatility of architectures to handle multiple modes of input and interaction.
+   3. **Scalable Long Term Intelligence**. Current agents are short-termed. How to build scalable solutions for long term memorization and time-streaming input processing.
 
 
-# Projects
+### News!
 
-I have a passion for open source academic communities.  Hope my projects are useful to the community!
+- **2023.11** We release [UltraEval](https://ultraeval.openbmb.cn/home). A platform for easy evaluation of LLMs' well-rounded ability!
+- **2023.11** [The longest long-context benchmark](https://github.com/OpenBMB/InfiniteBench) was released!
+- **2023.9** [The first sucessful attempt on predictable scaling](https://arxiv.org/abs/2310.03262) was released! 
+
+
+### Selected Publications
+
+* [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262). *Preprint*  **The first work to achieve predictable scaling besides GPT-4**
+  
+  **Shengding Hu**, Xin Liu, Xu Han, Xinrong Zhang, Chaoqun He, Weilin Zhao, Yankai Lin, Ning Ding, Zebin Ou, Guoyang Zeng, Zhiyuan Liu, Maosong Sun
+  
+
+* [Won't Get Fooled Again: Answering Questions with False Premises](https://arxiv.org/pdf/2307.02394)  **ACL Oral Representation**
+  
+  **Shengding Hu**, Yifan Luo, Huadong Wang, Xingyi Cheng, Zhiyuan Liu, Maosong Sun
+
+* [OpenDelta: A Plug-and-play Library for Parameter-efficient Adaptation of Pre-trained Models]
+
+
+* [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *ACL 2022 Demo*  **ACL 2022 Best Demo Award**
+  
+  Ning Ding\*, **Shengding Hu**\*, Weilin Zhao\*, Yulin Chen, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun
+
+
+* [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification.](https://arxiv.org/abs/2108.02035) *ACL 2022.* **More than 200 citations**
+  
+  **Shengding Hu**, Ning Ding, Huadong Wang, Zhiyuan Liu, JinGang Wang, Juanzi Li, Wei Wu,  Maosong Sun 
+
+
+* [Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models](https://arxiv.org/abs/2203.06904) *Preprint* **Neural Machine Intelligence Cover Article**
+  
+  Ning Ding\*, Yujia Qin\*, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, **Shengding Hu**, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun
+
+* [Graph Neural Networks: A Review of Methods and Applications.](https://arxiv.org/abs/1812.08434) *AI Open 2021.* **More than 4000 citations** 
+  
+  Jie Zhou\*, Ganqu Cui\*, **Shengding Hu**, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun. 
+
+
+
+# Selected Projects
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenDelta)](https://github.com/thunlp/OpenDelta) 
 
@@ -23,63 +72,11 @@ I have a passion for open source academic communities.  Hope my projects are use
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=PromptPapers)](https://github.com/thunlp/PromptPapers)
 
-# Publications
-\* indicates equal contribution.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=InfiniteBench)](https://github.com/OpenBMB/InfiniteBench)
 
-### 2022
-
-* [Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models](https://arxiv.org/abs/2203.06904) *Preprint*
-  
-  Ning Ding\*, Yujia Qin\*, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, **Shengding Hu**, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun
-
-* [Sparse Structure Search for Parameter-Efficient Tuning](https://arxiv.org/abs/2206.07382) *NeurIPS 2022* [code](https://github.com/thunlp/S3Delta)
-
-  **Shengding Hu**\*, Zhen Zhang\*, Ning Ding, Yadao Wang, Yasheng Wang, Zhiyuan Liu, Maosong Sun
-
-### 2021
-
-* [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *ACL 2022 Demo*  **ACL 2022 Best Demo Award**
-  
-  Ning Ding\*, **Shengding Hu**\*, Weilin Zhao\*, Yulin Chen, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun
-
-* [Prototypical Verbalizer for Prompt-based Few-shot Tuning.](https://openreview.net/pdf?id=tSfqsV1EVem)  *ACL 2022.*
-  
-  Ganqu Cui, Shengding Hu, Ning Ding, LongTao Huang, Zhiyuan Liu
-
-* [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification.](https://arxiv.org/abs/2108.02035) *ACL 2022.*
-  
-  **Shengding Hu**, Ning Ding, Huadong Wang, Zhiyuan Liu, JinGang Wang, Juanzi Li, Wei Wu,  Maosong Sun
-
-* [KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion.](https://arxiv.org/abs/2004.13631) *Findings of ACL 2021.*
-  
-  Jie Zhou\*, **Shengding Hu**\*, Xin Lv, Cheng Yang, Zhiyuan Liu, Wei Xu, Jie Jiang, Juanzi Li, Maosong Sun
-  
-
-* [Graph Neural Networks: A Review of Methods and Applications.](https://arxiv.org/abs/1812.08434) *AI Open 2021.*
-  
-  Jie Zhou\*, Ganqu Cui\*, **Shengding Hu**, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun. 
-
-### 2020
-* [Graph  Policy  Network  for  Transferable  Active Learning on Graphs](https://proceedings.neurips.cc/paper/2020/hash/73740ea85c4ec25f00f9acbd859f861d-Abstract.html).  *NeurIPS 2020.* [[code]](https://github.com/ShengdingHu/GraphPolicyNetworkActiveLearning)
-  
-  **Shengding Hu**, Zheng Xiong, Meng Qu, Xingdi Yuan,Marc-Alexandre Cˆot ́e, Zhiyuan Liu, and Jian Tang.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=BMPrinciples)](https://github.com/OpenBMB/BMPrinciples)
 
 
-# Social Services
-
-### Reviewer
-  - WWW 2020
-  
-### TA
-  - Computational Linguistics 2022. (Teacher: Maosong Sun)
-  - Summer Course on Big Models, 2022. (Teacher: Zhiyuan Liu) [Github Repo](https://github.com/thunlp/BMCourse)
-  - Object Oriented Programming, 2022. (Teacher: Zhiyuan Liu)
-  - Object Oriented Programming, 2021. (Teacher: Zhiyuan Liu)
-  - Natural Language Processing, 2020. (Teacher: Zhiyuan Liu)
-
-### Campus
-  - Vice President of Graduate Student Union in CS Dept. 2021-2022.
- 
 # Awards
 
 ### Master&PhD

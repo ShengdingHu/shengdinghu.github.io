@@ -22,7 +22,7 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
    3. **Scalable Long Term Intelligence**. Current agents are short-termed. How to build scalable solutions for long term memorization and time-streaming input processing.
 
 
-### News!
+# News!
 
 🔥 **2023.11** We release [UltraEval](https://ultraeval.openbmb.cn/home). A platform for easy evaluation of LLMs' well-rounded ability!
 
@@ -31,7 +31,7 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
 🔥 **2023.9** [The first sucessful attempt on predictable scaling](https://arxiv.org/abs/2310.03262) was released! 
 
 
-### Selected Publications
+# Selected Publications
 
 * [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262). *Preprint*  
   

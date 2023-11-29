@@ -24,10 +24,11 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
 
 ### News!
 
-:fire: **2023.11** We release [UltraEval](https://ultraeval.openbmb.cn/home). A platform for easy evaluation of LLMs' well-rounded ability!
+🔥 **2023.11** We release [UltraEval](https://ultraeval.openbmb.cn/home). A platform for easy evaluation of LLMs' well-rounded ability!
 
-:fire: **2023.11** [The longest long-context benchmark](https://github.com/OpenBMB/InfiniteBench) was released!
-:fire: **2023.9** [The first sucessful attempt on predictable scaling](https://arxiv.org/abs/2310.03262) was released! 
+🔥 **2023.11** [The longest long-context benchmark](https://github.com/OpenBMB/InfiniteBench) was released!
+
+🔥 **2023.9** [The first sucessful attempt on predictable scaling](https://arxiv.org/abs/2310.03262) was released! 
 
 
 ### Selected Publications

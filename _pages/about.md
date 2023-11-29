@@ -47,6 +47,13 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
   **Shengding Hu**, Yifan Luo, Huadong Wang, Xingyi Cheng, Zhiyuan Liu, Maosong Sun
 
 
+* [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354) *Preprints*.
+
+  <span style="color: red;">A 75 page study of LLM tool use. </span>
+
+  Yujia Qin, **Shengding Hu**, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, ..., Zhiyuan Liu, Maosong Sun.
+
+
 * [OpenPrompt: An Open-source Framework for Prompt-learning](https://arxiv.org/abs/2111.01998) *ACL 2022 Demo*  
   
   <span style="color: red;">ACL 2022 Best Demo Award</span>

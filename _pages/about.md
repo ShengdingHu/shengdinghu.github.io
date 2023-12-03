@@ -15,11 +15,11 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
 1. **Scientifically Scaling up LLMs**. This include
    1. **Predicatable Scaling**. Ensuring the growth of Language Models' ability is measureable and predictable.
    2. **Scalable Supervision for LLM**. As we are running out of pretraining data and step into super-human tasks,  developing mechanisms for scalable oversight and dynamic evaluation is important. 
-   
 2. **Building Scalable Solutions for Embodied Agents**. This include
-   1. **Scalable Environment Generation**. Creating adaptable and scalable environments for Agents RL training.
-   2. **Scalable Multi-modal Architectures**. Enhancing the versatility of architectures to handle multiple modes of input and interaction.
-   3. **Scalable Long Term Intelligence**. Current agents are short-termed. How to build scalable solutions for long term memorization and time-streaming input processing.
+   1. **Scalable Environment Generation**. Creating scalable virtual environments to provide scalable supervision for agents' training.
+   2. **Scalable and Unified Agent Foundation Models.**  Current foundation models are not yet ready for embodied and  long-term-goal-oriented agents. How to build scalable architectures for time-streaming and simulateneously multi-channal input. And how to build scalable solutions for long term context processing.
+
+In fact, I believe that we will not have achieved AGI until the model is capable of conducting scientific research independently. All the aforementioned points contribute to this objective.
 
 
 # News!
@@ -39,7 +39,6 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
   
   **Shengding Hu**, Xin Liu, Xu Han, Xinrong Zhang, Chaoqun He, Weilin Zhao, Yankai Lin, Ning Ding, Zebin Ou, Guoyang Zeng, Zhiyuan Liu, Maosong Sun
   
-
 * [Won't Get Fooled Again: Answering Questions with False Premises](https://arxiv.org/pdf/2307.02394)  
   
   <span style="color: red;">ACL Oral Representation</span>
@@ -88,7 +87,7 @@ For other papers, please refer to my [google scholar](https://scholar.google.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenDelta)](https://github.com/thunlp/OpenDelta) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenPrompt)](https://github.com/thunlp/OpenPrompt)
-  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=PromptPapers)](https://github.com/thunlp/PromptPapers)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=InfiniteBench)](https://github.com/OpenBMB/InfiniteBench)

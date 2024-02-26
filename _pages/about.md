@@ -33,7 +33,7 @@ The nature of intelligence always interests me. Currently I believe it is (after
 
 # News!
 
-🔥 **2024.2** We post [an elegant work on training dynmaics](https://arxiv.org/abs/2402.15175).
+🔥 **2024.2** We post [an elegant work on training dynamics](https://arxiv.org/abs/2402.15175).
 
 🔥 **2024.2** We release [MiniCPM](https://ultraeval.openbmb.cn/home). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
 

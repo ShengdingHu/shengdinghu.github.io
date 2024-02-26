@@ -35,7 +35,7 @@ where $I$ is the amount of intelligence, $E$ is information entropy, $E_0$ is th
 
 🔥 **2024.2** We post [an elegant work on training dynamics](https://arxiv.org/abs/2402.15175).
 
-🔥 **2024.2** We release [MiniCPM](https://ultraeval.openbmb.cn/home). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
+🔥 **2024.2** We release [MiniCPM](https://github.com/OpenBMB/MiniCPM). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
 
 
 # Selected Publications

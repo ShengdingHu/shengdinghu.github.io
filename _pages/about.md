@@ -12,26 +12,56 @@ I am a fourth-year PhD student from [the Department of Computer Science and Tech
 
 My current passion revolves around building **SCALABLE** solutions to AGI, which means the solutions will bring improvement simply with more resources on computation and data. This include:
 
-1. **Scientifically Scaling up LLMs**. This include
-   1. **Predicatable Scaling**. Ensuring the growth of Language Models' ability is measureable and predictable.
+1. **Scaling Model**. This include
+   1. **Scaling Law**. Ensuring the growth of language models' ability is measureable and predictable.
    2. **Scalable Supervision for LLM**. As we are running out of pretraining data and step into super-human tasks,  developing mechanisms for scalable oversight and dynamic evaluation is important. 
-2. **Building Scalable Solutions for Embodied Agents**. This include
-   1. **Scalable Environment Generation**. Creating scalable virtual environments to provide scalable supervision for agents' training.
-   2. **Scalable and Unified Agent Foundation Models.**  Current foundation models are not yet ready for embodied and  long-term-goal-oriented agents. How to build scalable architectures for time-streaming and simulateneously multi-channal input. And how to build scalable solutions for long term context processing.
+   3. **Scalable and Unified Foundation Models.**  Unifing modality, unifing training pipeline. Using generative model for everything.
+   4. **Scale up Model's Reception.** Long context and life long context.
+   
+2. **Scaling Data**. This include
+   1. **Scaling Data for LLM**. Scaling pretraining data, human expert data, synthetic data, etc. Data is all you need for AGI.
+   2. **Scalable Data for LWM**. Large world model will be the next milestone. Have we prepared enough data for them?
+   
 
 In fact, I believe that we will not have achieved AGI until the model is capable of conducting scientific research independently. All the aforementioned points contribute to this objective.
 
+The nature of intelligence always interests me. Currently I believe it is (after discussion with Xinyu Zhou, etc):
+
+<p align="center">
+  <img src="../images/intelligence_equation.jpg" alt="Example Image" style="width:30%">
+</p>
 
 # News!
 
-🔥 **2023.11** We release [UltraEval](https://ultraeval.openbmb.cn/home). A platform for easy evaluation of LLMs' well-rounded ability!
+🔥 **2024.2** We post [an elegant work on training dynmaics](https://arxiv.org/abs/2402.15175).
 
-🔥 **2023.11** [The longest long-context benchmark](https://github.com/OpenBMB/InfiniteBench) was released!
-
-🔥 **2023.9** [The first sucessful attempt on predictable scaling](https://arxiv.org/abs/2310.03262) was released! 
+🔥 **2024.2** We release [MiniCPM](https://ultraeval.openbmb.cn/home). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
 
 
 # Selected Publications
+
+* [Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition](https://arxiv.org/abs/2402.15175). *Arxiv*  
+  
+  <i>A simplest and beautiful <span style="color: red;">mechanistic interpretability</span> work. Providing perspective to understand the fascinating phenomena during model scaling and data scaling, encompassing Grokking, Double Descent, and Emergent Abilities.</i>
+  
+  Yufei Huang, **Shengding Hu**, Xu Han, Zhiyuan Liu, Maosong Sun
+  
+* [MiniCPM: Unveiling the Potential of End-side Large Language Models](https://shengdinghu.notion.site/MiniCPM-Unveiling-the-Potential-of-End-side-Large-Language-Models-d4d3a8c426424654a4e80e42a711cb20). *Blog*  
+  
+  <i>A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. With several scaling experiments. <span style="color: red;">WSD learning rate scheduler</span> is proposed as a substitude for Cosine learning scheduler. <span style="color: red;">Trending on Github and Huggingface.</span> </i>
+
+* [OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems](https://arxiv.org/abs/2402.14008). *Arxiv*  
+  
+  <i>A benchmark that challenges AGI with humanity's most eminent intellectual contests, serving as a beacon for future AGI development and a platform for studying scalable oversight. </i>
+
+  Chaoqun He, Renjie Luo, Yuzhuo Bai, **Shengding Hu**, Zhen Leng Thai, Junhao Shen, Jinyi Hu, Xu Han, Yujie Huang, Yuxiang Zhang, Jie Liu, Lei Qi, Zhiyuan Liu, Maosong Sun
+
+* [∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.14008). *Arxiv*  
+  
+  <i>Benchmark for super long context. Long context is almost everything (better in an efficient way)</i>
+
+  Xinrong Zhang, Yingfa Chen, **Shengding Hu**, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu, Maosong Sun
+
 
 * [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262). *Preprint*  
   
@@ -83,6 +113,7 @@ For other papers, please refer to my [google scholar](https://scholar.google.com
 
 # Selected Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=MiniCPM)](https://github.com/OpenBMB/MiniCPM) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OpenDelta)](https://github.com/thunlp/OpenDelta) 
 

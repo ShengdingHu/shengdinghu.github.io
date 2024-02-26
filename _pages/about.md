@@ -25,7 +25,10 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
 
 In fact, I believe that we will not have achieved AGI until the model is capable of conducting scientific research independently. All the aforementioned points contribute to this objective.
 
-The nature of intelligence always interests me. Currently I think it might take the form: $$I := - \int_{\mathcal{P}} E_0 \frac{\mathrm{d}E}{E}$$
+The nature of intelligence always interests me. Currently I think it might take the form:
+
+ $$I := - \int_{\mathcal{P}} E_0 \frac{\mathrm{d}E}{E}$$
+
 where $I$ is the amount of intelligence, $E$ is information entropy, $E_0$ is the information entropy before applying intelligence, and $\mathcal{P}$ is the joint probability of the information over the world. Note that this definition is only used to express a belief that is neither rigorous nor verified.
 
 # News!

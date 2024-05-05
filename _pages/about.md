@@ -37,18 +37,23 @@ where $I$ is the amount of intelligence, $E$ is information entropy, $E_0$ is th
 # News!
 
 <!-- 🔥 **2024.2** We post [an elegant work on training dynamics](https://arxiv.org/abs/2402.15175). -->
+🔥 **2024.4** We release [LEGENT](https://huggingface.co/papers/2404.18243). An Open Platform for Embodied Agents, The main contributor Zhili Cheng is awesome at unity programming! 
 
 🔥 **2024.4** We release the paper of [MiniCPM](https://github.com/OpenBMB/MiniCPM) in [Arxiv](https://arxiv.org/abs/2404.06395). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
 
 
 # Selected Publications
 
+* [LEGENT: Open Platform for Embodied Agents](https://arxiv.org/abs/2404.18243). *Arxiv*  
+  A Unity 3D platform for building your embodied agents powered by LLMs. Still under development! If you want to be a contributor please contact me via email.
+
+
 * [Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition](https://arxiv.org/abs/2402.15175). *Arxiv*  
   
   <i>A simplest and beautiful <span style="color: red;">mechanistic interpretability</span> work. Providing perspective to understand the fascinating phenomena during model scaling and data scaling, encompassing Grokking, Double Descent, and Emergent Abilities.</i>
   
   Yufei Huang, **Shengding Hu**, Xu Han, Zhiyuan Liu, Maosong Sun
-  
+
 * [MiniCPM: Unveiling the Potential of End-side Large Language Models](https://arxiv.org/abs/2404.06395). *Arxiv*  
   
   <i>A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. With several scaling experiments. <span style="color: red;">WSD learning rate scheduler</span> is proposed as a substitude for Cosine learning scheduler. <span style="color: red;">Trending on Github and Huggingface.</span> </i>

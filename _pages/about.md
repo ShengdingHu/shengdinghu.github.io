@@ -25,17 +25,20 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
 
 In fact, I believe that we will not have achieved AGI until the model is capable of conducting scientific research independently. All the aforementioned points contribute to this objective.
 
-The nature of intelligence always interests me. Currently I think it might take the form:
+
+<!-- The nature of intelligence always interests me. Currently I think it might take the form:
 
  $$I := - \int_{\mathcal{P}} E_0 \frac{\mathrm{d}E}{E}$$
 
-where $I$ is the amount of intelligence, $E$ is information entropy, $E_0$ is the information entropy before applying intelligence, and $\mathcal{P}$ is the joint probability of the information over the world. Note that this definition is only used to express a belief that is neither rigorous nor verified.
+where $I$ is the amount of intelligence, $E$ is information entropy, $E_0$ is the information entropy before applying intelligence, and $\mathcal{P}$ is the joint probability of the information over the world. Note that this definition is only used to express a belief that is neither rigorous nor verified. -->
+<!-- more thoughts are needed here. -->
+
 
 # News!
 
-🔥 **2024.2** We post [an elegant work on training dynamics](https://arxiv.org/abs/2402.15175).
+<!-- 🔥 **2024.2** We post [an elegant work on training dynamics](https://arxiv.org/abs/2402.15175). -->
 
-🔥 **2024.2** We release [MiniCPM](https://github.com/OpenBMB/MiniCPM). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
+🔥 **2024.4** We release the paper of [MiniCPM](https://github.com/OpenBMB/MiniCPM) in [Arxiv](https://arxiv.org/abs/2404.06395). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
 
 
 # Selected Publications
@@ -46,7 +49,7 @@ where $I$ is the amount of intelligence, $E$ is information entropy, $E_0$ is th
   
   Yufei Huang, **Shengding Hu**, Xu Han, Zhiyuan Liu, Maosong Sun
   
-* [MiniCPM: Unveiling the Potential of End-side Large Language Models](https://shengdinghu.notion.site/MiniCPM-Unveiling-the-Potential-of-End-side-Large-Language-Models-d4d3a8c426424654a4e80e42a711cb20). *Blog*  
+* [MiniCPM: Unveiling the Potential of End-side Large Language Models](https://arxiv.org/abs/2404.06395). *Arxiv*  
   
   <i>A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. With several scaling experiments. <span style="color: red;">WSD learning rate scheduler</span> is proposed as a substitude for Cosine learning scheduler. <span style="color: red;">Trending on Github and Huggingface.</span> </i>
 

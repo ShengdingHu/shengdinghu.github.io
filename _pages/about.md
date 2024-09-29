@@ -12,15 +12,11 @@ I am a fourth-year PhD student from [the Department of Computer Science and Tech
 
 My current passion revolves around building **SCALABLE** solutions to AGI, which means the solutions will bring improvement simply with more resources on computation and data. This include:
 
-1. **Scaling Model**. This include
-   1. **Scaling Law**. Ensuring the growth of language models' ability is measureable and predictable.
-   2. **Scalable Supervision for LLM**. As we are running out of pretraining data and step into super-human tasks,  developing mechanisms for scalable oversight and dynamic evaluation is important. 
-   3. **Scalable and Unified Foundation Models.**  Unifing modality, unifing training pipeline. Using generative model for everything.
-   4. **Scale up Model's Reception.** Long context and life long context.
-   
-2. **Scaling Data**. This include
-   1. **Scaling Data for LLM**. Scaling pretraining data, human expert data, synthetic data, etc. Data is all you need for AGI.
-   2. **Scalable Data for LWM**. Large world model will be the next milestone. Have we prepared enough data for them?
+1. **Scaling Pretrain**. Ensuring the growth of language models' ability is measureable and predictable.
+  
+2. **Scaling RL**. This include developing scaling principles for scalable oversight, PPO, MCTS, etc. 
+  
+3. **Scaling World Model**  Unifing modality, unifing training pipeline, then scaling with pretrain and RL. 
    
 
 In fact, I believe that we will not have achieved AGI until the model is capable of conducting scientific research independently. All the aforementioned points contribute to this objective.
@@ -37,12 +33,15 @@ where $I$ is the amount of intelligence, $E$ is information entropy, $E_0$ is th
 # News!
 
 <!-- 🔥 **2024.2** We post [an elegant work on training dynamics](https://arxiv.org/abs/2402.15175). -->
+
+
 🔥 **2024.4** We release [LEGENT](https://huggingface.co/papers/2404.18243). An Open Platform for Embodied Agents, The main contributor Zhili Cheng is awesome at unity programming! 
 
 🔥 **2024.4** We release the paper of [MiniCPM](https://github.com/OpenBMB/MiniCPM) in [Arxiv](https://arxiv.org/abs/2404.06395). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
 
 
 # Selected Publications
+
 
 * [LEGENT: Open Platform for Embodied Agents](https://arxiv.org/abs/2404.18243). *Arxiv*  
   A Unity 3D platform for building your embodied agents powered by LLMs. Still under development! If you want to be a contributor please contact me via email.

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm) and  [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).  
+I am a final-year PhD student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm) and  [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).  
 
 My current passion revolves around building **SCALABLE** solutions to AGI, which means the solutions will bring improvement simply with more resources on computation and data. This include:
 

@@ -1,0 +1,6 @@
+.hugo_build.lock
+public/*
+*~
+.dropbox
+.DS_Store
+Icon*

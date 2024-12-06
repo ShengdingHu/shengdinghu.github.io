@@ -5,6 +5,7 @@ theme: 'PaperMod'
 
 
 params:
+  math: false
   profileMode:
     enabled: true
     title: "Shengding's HomePage" # optional default will be site title
@@ -58,5 +59,4 @@ markup:
           - - $
             - $
         enable: true
-params:
-  math: false
+  

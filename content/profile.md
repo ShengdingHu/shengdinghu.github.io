@@ -1,14 +1,7 @@
 ---
 date: '2024-12-04T23:12:44+08:00'
-draft: true
 title: 'About Me'
 author: 'hsd'
-author_profile: true
-imageUrl: "images/mainfig.png"
-social_links:
-  - name: "twitter"
-    url: https://x.com/DeanHu11
-    icon: "twitter"
 ---
 
 

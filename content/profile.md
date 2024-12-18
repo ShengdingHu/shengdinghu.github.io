@@ -5,19 +5,19 @@ author: 'hsd'
 ---
 
 
-I am a final-year PhD student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm) and  [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).  
+I am a final-year PhD student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm) and  [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). In the summer of 2019, I visited [MILA](https://mila.quebec/en/) and conducted research under [Professor Jian Tang](https://jian-tang.com).
 
-My current passion revolves around building **SCALABLE** solutions to AGI, which means the solutions will bring improvement simply with more resources on computation and data. This include:
+My current passion revolves around building **SCALABLE** solutions to ASI (AGI is too vague to be a target, and its first version will be achieved soon.), which means the solutions will bring improvement simply with more resources on computation and data. This include:
 
-1. **Scaling Pretrain**. Ensuring the growth of language models' ability is measureable and predictable.
+1. **Scaling Pretrain**. Ensuring the growth of language models' ability is measureable and predictable, and potentially instructing us to find better scaling law with better paradigm.
   
 2. **Scaling RL**. This includes developing scaling RL training compute, inference compute, data source, RL horizon (O1 paradigm).
   
 3. **Scaling World Model**  Unifing modality and training objectives, then scaling with pretrain and RL. 
-   
 
-In fact, I believe that we will not have achieved AGI until the model is capable of conducting scientific research independently. All the aforementioned points contribute to this objective.
+The above objects seem very broad. I will focus on one point at a time. Currently, I am on ``Better Architecture for RL Scaling''.
 
+In fact, I believe that we will not have achieved ASI until the model is capable of conducting scientific research independently. There is still a long way to go. Keep fighting! 
 
 <!-- The nature of intelligence always interests me. Currently I think it might take the form:
 

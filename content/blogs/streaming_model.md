@@ -5,14 +5,11 @@ math: true
 title: 'Reasoning Horizon Scaling - Efficient Architecture (I)'
 ---
 
+Both reasoning and agentic requires changes in our model architecture.
 
-Humans are extraordinary at slow and persistent reasoning. This has not yet been achieved by current LLMs, mainly due to two reasons:  
-- Limited memory capacity and awkward length scaling efficiency.  
-- High variance in learning signals and sparse rewards.  
+- From the perspective of reasoning, humans are extraordinary at slow and persistent reasoning. This has not yet been achieved by current LLMs, because of the **limited memory capacity** and awkward **length scaling efficiency**.  
+- From the perspective of agentic, Transformers' Attention attend to all previous token each time when we process new tokens, which means the information of the past is stored locally in the past, but not bring forward into the future, making it **a model without a mental state**, thus making it far from **``agentic''**.
 
-I will discuss the first issue in this blog and leave the second one for the future.  
-
-In the first stage, there are primarily two directions: the first is memory augmentation, and the second is efficient transformers. In this blog, I will focus only on the second direction.  
 
 Specifically, this blog will cover the following topics:  
 1) Linear Transformer  
@@ -24,6 +21,7 @@ Specifically, this blog will cover the following topics:
 ---
 
 # Linear Transformer  
+
 
 Denote the Query, Key, and Value matrices in the transformer as \( Q \), \( K \), \( V \in \mathbb{R}^{n \times d} \).  
 The traditional transformer computes the output \( O \) as:  
@@ -38,7 +36,7 @@ The linear transformer removes the softmax operator, instead computing \( O \) a
 O = (QK^T)V
 \]  
 
-The removal of the softmax operator leverages the associative property of matrix multiplication. Using this property, we can rewrite \( O \) as:  
+Then we can leverage the associative property of matrix multiplication. Using this property, we can rewrite \( O \) as:  
 
 \[
 O = Q(K^TV)
@@ -63,15 +61,15 @@ S_i = S_{i-1} + k_i^T v_i
 
 ## Relationship with Hopfield Network  
 
-It is generally acknowledged that the linear transformer has a close relationship with the Hopfield Network. A Hopfield Network \( f_{\{x_i\}}(x') \), trained on a set of inputs \( \{x_i\} \), is considered to have memory capabilities. Specifically, when the network is given a new input \( x' = x_{i0} + \epsilon \), where \( \epsilon \) is small noise, iterating through \( f \), as in \( f(f(...f(x')))\), will retrieve \( x_{i0} \).  
+It is generally acknowledged that the linear transformer has a close relationship with the Hopfield Network. A Hopfield Network \( f_{\{x_i\}}(x') \), trained on a set of inputs \( \{x_i\} \), is considered to have memory capabilities. Specifically, when the network is given a new input \( x' = x_{i} + \epsilon \), where \( \epsilon \) is small noise, iterating through \( f \), as in \( f(f(...f(x')))\), will retrieve \( x_{i} \).  
 
-Now, let’s explore why the linear transformer is closely related to the Hopfield Network and what this relationship entails:  
+Now, let’s explore why the linear transformer is closely related to the Hopfield Network and what this relationship entails. We can retrieve $v_i$ from the state $S_n$ using a key $k'$ that is similar but not necessarilly the same as key $k_i$. 
 
 \[
-k' S_n k = k' \sum_i k_i^T v_i = \sum_i (k' k_i^T)v_i
+k' S_n = k' \sum_i k_i^T v_i = \sum_i (k' k_i^T)v_i
 \]  
 
-When \( k_i \) is sufficiently linearly independent, this operation effectively extracts \( v_i \).  
+When \( \{ k_i \} \) are sufficiently linearly independent with each other, this operation effectively extracts \( v_i \).  
 
 Therefore, for the linear transformer to function like a Hopfield Network, \( k_i \) needs to be independent enough from one another.  
 

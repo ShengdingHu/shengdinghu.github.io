@@ -11,7 +11,7 @@ My current passion revolves around building **SCALABLE** solutions to AGI, which
 
 1. **Scaling Pretrain**. Ensuring the growth of language models' ability is measureable and predictable.
   
-2. **Scaling RL**. This includes developing scaling principles for scalable oversight, PPO, MCTS, etc. 
+2. **Scaling RL**. This includes developing scaling RL training compute, inference compute, data source, RL horizon (O1 paradigm).
   
 3. **Scaling World Model**  Unifing modality and training objectives, then scaling with pretrain and RL. 
    

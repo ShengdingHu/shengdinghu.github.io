@@ -1,6 +1,7 @@
 
-🔥 **2024.5** I started my internship at ByteDance's LLM team!
+🔥 **2024.12** I started my internship at DeepSeek AI team!
 
+🔥 **2024.5** I started my internship at ByteDance's LLM team!
 
 🔥 **2024.4** We release [LEGENT](https://huggingface.co/papers/2404.18243). An Open Platform for Embodied Agents, The main contributor Zhili Cheng is awesome at unity programming! 
 

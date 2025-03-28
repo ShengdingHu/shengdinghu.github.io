@@ -7,5 +7,5 @@
 
 🔥 **2024.4** We released [LEGENT](https://huggingface.co/papers/2404.18243). An Open Platform for Embodied Agents, the main contributor Zhili Cheng is awesome at unity programming! 
 
-🔥 **2024.4** We released the paper of [MiniCPM](https://github.com/OpenBMB/MiniCPM) in [Arxiv](https://arxiv.org/abs/2404.06395). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. 
+🔥 **2024.4** We released the paper of [MiniCPM](https://github.com/OpenBMB/MiniCPM) in [Arxiv](https://arxiv.org/abs/2404.06395). A small LLM with 2.4B non-embedding parameters that rivals Llama-13B or Mistral-7B. We also introduce the WSD learning rate scheduler.
 
